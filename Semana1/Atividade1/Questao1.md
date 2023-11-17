@@ -1,0 +1,1 @@
+Utilizando o comando dotnet --list-sdks o terminal retornará a versão atual do .NET, sendo assim, confirmada a instalação.
