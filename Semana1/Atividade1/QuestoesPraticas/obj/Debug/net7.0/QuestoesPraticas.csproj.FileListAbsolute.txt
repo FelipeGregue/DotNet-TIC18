@@ -1,0 +1,15 @@
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/bin/Debug/net7.0/QuestoesPraticas
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/bin/Debug/net7.0/QuestoesPraticas.deps.json
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/bin/Debug/net7.0/QuestoesPraticas.runtimeconfig.json
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/bin/Debug/net7.0/QuestoesPraticas.dll
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/bin/Debug/net7.0/QuestoesPraticas.pdb
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/obj/Debug/net7.0/QuestoesPraticas.csproj.AssemblyReference.cache
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/obj/Debug/net7.0/QuestoesPraticas.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/obj/Debug/net7.0/QuestoesPraticas.AssemblyInfoInputs.cache
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/obj/Debug/net7.0/QuestoesPraticas.AssemblyInfo.cs
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/obj/Debug/net7.0/QuestoesPraticas.csproj.CoreCompileInputs.cache
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/obj/Debug/net7.0/QuestoesPraticas.dll
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/obj/Debug/net7.0/refint/QuestoesPraticas.dll
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/obj/Debug/net7.0/QuestoesPraticas.pdb
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/obj/Debug/net7.0/QuestoesPraticas.genruntimeconfig.cache
+/home/felipe/Área de Trabalho/Residencia/DotNet-TIC18/Semana1/Atividade1/QuestoesPraticas/obj/Debug/net7.0/ref/QuestoesPraticas.dll
